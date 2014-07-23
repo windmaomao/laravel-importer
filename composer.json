@@ -1,0 +1,23 @@
+{
+    "name": "qplot/importer",
+    "description": "",
+    "authors": [
+        {
+            "name": "Fang Jin",
+            "email": "windmaomao@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-0": {
+            "QPlot\\Importer\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
