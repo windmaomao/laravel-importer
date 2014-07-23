@@ -19,5 +19,10 @@
             "QPlot\\Importer\\": "src/"
         }
     },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1-dev"
+        }
+    },
     "minimum-stability": "stable"
 }
