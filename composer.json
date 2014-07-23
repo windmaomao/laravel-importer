@@ -1,6 +1,9 @@
 {
     "name": "qplot/importer",
     "description": "script driven CSV importer for Laravel 4",
+    "keywords": ["laravel", "csv", "import"],
+    "homepage": "https://github.com/windmaomao/laravel-importer",
+    "license": "MIT",
     "authors": [
         {
             "name": "Fang Jin",
